@@ -3,6 +3,6 @@ This repository contains the code for training and comparing models based on the
 
 The project explores various adaptation strategies, ranging from traditional machine learning baselines to state-of-the-art Parameter-Efficient Fine-Tuning (PEFT) techniques.
 
-If you are only interested in the results, everything is explained in Report_Lab3.pdf. If you need the code, it is in Lab3_transformers.ipynb. 
+If you are only interested in the results, everything is explained in Report_Lab3.pdf. If you need the code, it is in Lab3_transformers.ipynb (GitHub may not render it; please download it). 
 The requirements you need are in requirements.txt.
 
